@@ -3,7 +3,7 @@
 class MyModComments extends Module {
 	
 	/*
-	 BACH(j.s)
+	 BACk(j.s)
     */
 	 
 	//Instanciation de l'objet
@@ -53,7 +53,7 @@ public function assignConfiguration() {
 	$this->context->smarty->assign('enable_comments', $enable_comments);
 }
 /*
- Font
+ Front
  */
 
 public function install() {
