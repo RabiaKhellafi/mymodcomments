@@ -3,7 +3,7 @@
 class MyModComments extends Module {
 	
 	/*
-	 BACk(j.s)
+	 Back(j.s)
     */
 	 
 	//Instanciation de l'objet
